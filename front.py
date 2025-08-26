@@ -7,7 +7,7 @@ from audio_recorder_streamlit import audio_recorder
 import uuid
 
 # Configuration
-API_BASE_URL = "http://localhost:8000"  # Change this to your Docker container URL if needed
+API_BASE_URL = "https://mental-health-backend-08bz.onrender.com"  # Change this to your Docker container URL if needed
 HEADERS = {"Content-Type": "application/json"}
 
 # Initialize session state
@@ -947,4 +947,5 @@ def main():
                     st.balloons()
 
 if __name__ == "__main__":
+
     main()
