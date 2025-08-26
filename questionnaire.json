@@ -1,0 +1,44 @@
+[
+  {
+    "question_id": 0,
+    "question": "Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?",
+    "category": "depression",
+    "type": "frequency"
+  },
+  {
+    "question_id": 1,
+    "question": "How often have you felt nervous, anxious, or on edge in the past two weeks?",
+    "category": "anxiety",
+    "type": "frequency"
+  },
+  {
+    "question_id": 2,
+    "question": "Describe your sleep patterns lately. Have you experienced any changes in your sleep quality or duration?",
+    "category": "sleep",
+    "type": "descriptive"
+  },
+  {
+    "question_id": 3,
+    "question": "How would you rate your energy levels and motivation to engage in daily activities recently?",
+    "category": "energy_motivation",
+    "type": "rating"
+  },
+  {
+    "question_id": 4,
+    "question": "Have you experienced any significant changes in your appetite or eating habits over the past few weeks?",
+    "category": "appetite",
+    "type": "descriptive"
+  },
+  {
+    "question_id": 5,
+    "question": "How well have you been able to concentrate on tasks such as work, reading, or watching TV recently?",
+    "category": "concentration",
+    "type": "rating"
+  },
+  {
+    "question_id": 6,
+    "question": "In your own words, describe any major stressors or life changes you've experienced recently and how they've affected your mental well-being.",
+    "category": "stress_life_events",
+    "type": "open_ended"
+  }
+]
